@@ -1,0 +1,49 @@
+﻿---
+ID: "87c54f70-d48b-4af1-a5cb-9c5d0068b93c"
+Parent: "c961cfce-83be-40ed-80b9-b44239069edd"
+Template: "c961cfce-83be-40ed-80b9-b44239069edd"
+Path: /sitecore/templates/TAC/Events/Events List/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{2B1E4E6D-EA3E-4DEF-91DD-96C2C48AC0EF}"
+- ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
+  Hint: __Editors
+  Type: TreelistEx
+  Value: "{59F53BBB-D1F5-4E38-8EBA-0D73109BB59B}"
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Type: Checkbox
+  Value: 1
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{02C030BB-4934-4B21-B4B2-91E464C942C3}">
+        <r
+          id="{79730B48-C16A-429E-B80C-09C0542C33DD}"
+          ph="main"
+          uid="{E37B7237-4A7D-4661-8B0C-AAAD49908708}" />
+        <r
+          id="{7989D7C5-0591-4F31-9FA0-5C5650B40F48}"
+          ph="pageContent"
+          uid="{E7AF2E9F-6DBA-4B90-BD21-6BB1A4BC844C}" />
+        <r
+          id="{739848F5-B872-4370-BA27-13031E296E4B}"
+          ph="pageHeader"
+          uid="{C7927B33-F610-498C-89DE-14AFDE8432AA}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170612T153002Z

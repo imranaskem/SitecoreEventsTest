@@ -1,0 +1,24 @@
+﻿---
+ID: "3c2d08b3-faf1-42a3-9360-8296f165ee9b"
+Parent: "8f9a8a46-f073-491e-8d78-bd96a5296cd0"
+Template: "83014347-a3a0-439e-b6da-518fb70889ab"
+Path: /sitecore/content/Events/Home/Events
+DB: master
+SharedFields:
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: "{32416A95-4197-4D33-8CE7-7BB4FFEBEB42}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Events
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170612T153442Z
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Events

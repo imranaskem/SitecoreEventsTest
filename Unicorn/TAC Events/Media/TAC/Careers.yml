@@ -1,0 +1,14 @@
+﻿---
+ID: "2a7dbe4d-c21d-49de-8437-a2be2bea68c7"
+Parent: "cea92772-67ce-4239-a354-454952b90a43"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/media library/TAC/Careers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170612T112111Z

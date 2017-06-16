@@ -1,0 +1,15 @@
+﻿@model IEnumerable<EventsTacLocal.Models.NavigationItem>
+
+<!-- [Breadcrumb Navigation] -->
+<ol class="breadcrumb">
+    @foreach (var navItem in Model)
+    {
+        <li>
+            <a class="@(navItem.Active ? "active" : string.Empty)"
+               href="@navItem.Url">
+                @navItem.Title
+            </a>
+        </li>
+    }
+</ol>
+<!-- [/Breadcrumb Navigation] -->

@@ -1,0 +1,25 @@
+﻿---
+ID: "f5e8c20f-c666-4411-b09b-09c57573f6e1"
+Parent: "f28cdec5-919b-415a-914c-38cc88d6fe07"
+Template: "2b1e4e6d-ea3e-4def-91dd-96c2c48ac0ef"
+Path: /sitecore/content/Events/Home/Events/Climbing/2017/06/Rockies Adventure
+DB: master
+SharedFields:
+- ID: "bd526c1c-9994-402f-a8e6-4b6865b60ae0"
+  Hint: Event Image
+  Value: |
+    <image mediaid="{5AF6A8C1-E2A2-445D-9CF6-5E970D458F4C}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Rockies Adventure...
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170612T153834Z
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Rockies Adventure

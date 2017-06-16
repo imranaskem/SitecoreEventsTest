@@ -1,0 +1,14 @@
+﻿---
+ID: "f28cdec5-919b-415a-914c-38cc88d6fe07"
+Parent: "c3368630-06e0-4f7a-9cd5-e4d234499246"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Events/Home/Events/Climbing/2017/06
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170615T170051Z

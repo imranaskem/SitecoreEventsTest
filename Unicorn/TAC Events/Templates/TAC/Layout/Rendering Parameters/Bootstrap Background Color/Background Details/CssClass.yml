@@ -1,0 +1,21 @@
+﻿---
+ID: "3a05c561-ab69-4e69-bee5-8efa153f9deb"
+Parent: "522347d1-ed5a-4d90-847d-fcb380d27b2f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/TAC/Layout/Rendering Parameters/Bootstrap Background Color/Background Details/CssClass
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "{0F56ABA7-7950-4087-A1D0-FF63F5263CCD}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Droplink
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T101302Z

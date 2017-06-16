@@ -1,0 +1,24 @@
+﻿---
+ID: "45703eb8-b56a-4962-89fe-65a4c1e51300"
+Parent: "3c2d08b3-faf1-42a3-9360-8296f165ee9b"
+Template: "c961cfce-83be-40ed-80b9-b44239069edd"
+Path: /sitecore/content/Events/Home/Events/Hiking
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Hiking
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170612T153501Z
+    - ID: "316d090c-0128-4c15-ae3e-0b7ac6423197"
+      Hint: DecorationBanner
+      Value: |
+        <image mediapath="" alt="hiking-events" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{5AF6A8C1-E2A2-445D-9CF6-5E970D458F4C}" />
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Hiking

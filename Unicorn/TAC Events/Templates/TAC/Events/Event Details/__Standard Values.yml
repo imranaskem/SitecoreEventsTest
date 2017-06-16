@@ -1,0 +1,104 @@
+﻿---
+ID: "0ef646ce-d165-4cc7-a093-2c3d20e1b2c3"
+Parent: "2b1e4e6d-ea3e-4def-91dd-96c2c48ac0ef"
+Template: "2b1e4e6d-ea3e-4def-91dd-96c2c48ac0ef"
+Path: /sitecore/templates/TAC/Events/Event Details/__Standard Values
+DB: master
+SharedFields:
+- ID: "07782492-716c-442a-a138-b289346ae110"
+  Hint: Start Date
+  Value: 20170614T230000Z
+- ID: "bd526c1c-9994-402f-a8e6-4b6865b60ae0"
+  Hint: Event Image
+  Value: |
+    <image mediaid="{5AF6A8C1-E2A2-445D-9CF6-5E970D458F4C}" />
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Type: Checkbox
+  Value: 1
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{02C030BB-4934-4B21-B4B2-91E464C942C3}">
+        <r
+          id="{79730B48-C16A-429E-B80C-09C0542C33DD}"
+          ph="main"
+          uid="{0867FE56-0D42-457B-9860-1ABFCDAF67CD}" />
+        <r
+          id="{739848F5-B872-4370-BA27-13031E296E4B}"
+          ph="pageHeader"
+          uid="{61078AB3-A613-4D86-9FB0-EE8A92654B0D}" />
+        <r
+          id="{797B6C41-80ED-4F67-A6D5-D521AEAAE3BA}"
+          ph="pageContent"
+          uid="{37FFA56E-8E24-4A85-99F6-AA9D5D361B51}" />
+        <r
+          id="{B2166195-2A84-4C68-8C63-C96539500476}"
+          ph="pageContent"
+          uid="{6958DAD2-D240-4D09-B375-DB9101471340}" />
+        <r
+          id="{BA70647F-12FA-4545-A8A4-67C008ABDA7C}"
+          ph="pageContent"
+          uid="{AE98EFC2-84FE-4040-B766-2FB5808A4163}" />
+        <r
+          id="{30774A5B-9FB5-4F4B-8863-804E4CECF931}"
+          ph="pageSide"
+          uid="{C0989586-139E-4E8B-8882-60EB5019E3CC}" />
+        <r
+          id="{A3A561AA-53B6-4283-B791-6289C4A5B9B2}"
+          ph="pageSide"
+          uid="{5FDE99A2-7256-40D9-987E-653D860890A0}">
+          <rls>
+            <ruleset>
+              <rule
+                name="hide when subscribed"
+                uid="{8E399CBA-C7E1-455E-86FB-B9E30D20FFF5}">
+                <conditions>
+                  <condition
+                    id="{AAA6DCBF-A55F-452F-8740-CD4B1313CB31}"
+                    uid="F196D14FFAF14DECB10BF9F831C7F5E7"
+                    OutcomeDefinition="{CA865F1D-4787-427B-AD66-5A183B949A02}" />
+                </conditions>
+                <actions>
+                  <action
+                    id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}"
+                    uid="579EBB05FB1E40BB9BC30124E21A7A49" />
+                </actions>
+              </rule>
+              <rule
+                uid="{00000000-0000-0000-0000-000000000000}"
+                name="Default">
+                <conditions>
+                  <condition
+                    id="{4888ABBB-F17D-4485-B14B-842413F88732}"
+                    uid="B90C9D8A94354689BCA5AD8165319530" />
+                </conditions>
+                <actions />
+              </rule>
+            </ruleset>
+          </rls>
+        </r>
+      </d>
+    </r>
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170612T152659Z
+    - ID: "676a4a9b-4cf8-4aad-b9e9-f22709fc09ab"
+      Hint: Highlights
+      Value: List events highlights here...
+    - ID: "ae97d6d0-6bc0-4395-b623-4dbd705c3c18"
+      Hint: ContentIntro
+      Value: Lorem ipsum...

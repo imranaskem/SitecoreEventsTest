@@ -1,0 +1,25 @@
+﻿---
+ID: "e55c5563-8cb3-4089-905b-5bb14c65a0f6"
+Parent: "9efd017f-fa67-40ad-8405-23c1db8a2c53"
+Template: "2b1e4e6d-ea3e-4def-91dd-96c2c48ac0ef"
+Path: /sitecore/content/Events/Home/Events/Hiking/2017/06/Hiking Pikes Peak
+DB: master
+SharedFields:
+- ID: "bd526c1c-9994-402f-a8e6-4b6865b60ae0"
+  Hint: Event Image
+  Value: |
+    <image mediaid="{3A793D2B-93E6-4797-8AC8-2DCD100F3554}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Hiking Pikes Peak
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170612T153710Z
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Hiking Pikes Peak

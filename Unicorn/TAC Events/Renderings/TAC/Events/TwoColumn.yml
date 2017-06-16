@@ -1,0 +1,22 @@
+﻿---
+ID: "79730b48-c16a-429e-b80c-09c0542c33dd"
+Parent: "99a70deb-9634-49a6-9c9a-d6c7e48fbda9"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/TAC/Events/TwoColumn
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/TAC/Events/TwoColumn.cshtml
+- ID: "e441abe7-2ca3-4640-ae26-3789967925d7"
+  Hint: Compatible Renderings
+  Type: Treelist
+  Value: "{3C102078-7761-4A80-B4F5-4236A45FFB96}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170613T113358Z

@@ -1,0 +1,87 @@
+﻿---
+ID: "8f9a8a46-f073-491e-8d78-bd96a5296cd0"
+Parent: "4a6605e3-73be-4a4a-bed7-0acd7bd0c6ff"
+Template: "784f7de5-0b35-4a01-ab3c-2549559d992b"
+Path: /sitecore/content/Events/Home
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D23E76F7-0B1F-49D2-99D4-0AE0B2428561}"
+              p:before="*"
+              s:ds="{B3E77383-B23E-4E23-B1DB-A260FAF65AC5}"
+              s:id="{154C0F70-9921-47B1-82A0-2C18D007D79E}"
+              s:par="CssClass={E3047EE9-38E0-4E8F-AAB3-54014EDF64A4}"
+              s:ph="/main/pageContent/featuredEvents">
+              <rls>
+                <ruleset>
+                  <rule
+                    uid="{06F3260B-3272-4CD1-B31B-4D350BBC30EB}"
+                    s:name="when visitor is a hiker">
+                    <conditions>
+                      <condition
+                        uid="0D778DBFBCB643B0BA7A02CAF9BF7F50"
+                        s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}"
+                        s:ProfileName="Activity"
+                        s:PatternName="Hiker" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="983D20BA64B1468697DA76B63570930B"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{E55C5563-8CB3-4089-905B-5BB14C65A0F6}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="3BB9F72E1712414CAE4A4266D3237047"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                    <actions />
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{9A511DC7-D114-436B-97E7-43B30749AD31}"
+              p:after="r[@uid='{D23E76F7-0B1F-49D2-99D4-0AE0B2428561}']"
+              s:ds="{F5E8C20F-C666-4411-B09B-09C57573F6E1}"
+              s:id="{154C0F70-9921-47B1-82A0-2C18D007D79E}"
+              s:par="CssClass={F6E152EE-A950-4F4B-81F9-265160480B42}"
+              s:ph="/main/pageContent/featuredEvents" />
+            <r
+              uid="{B668FB31-DEC2-49B5-A1F1-A364127C8AA9}"
+              p:after="r[@uid='{9A511DC7-D114-436B-97E7-43B30749AD31}']"
+              s:ds="{54A50FA4-3881-44A3-9BF9-128F0F67198F}"
+              s:id="{154C0F70-9921-47B1-82A0-2C18D007D79E}"
+              s:par="CssClass={7C3EBF12-EC00-4A9A-9AA2-4BB5E060F8F4}"
+              s:ph="/main/pageContent/featuredEvents" />
+          </d>
+        </r>
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Events
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170612T153202Z
+    - ID: "ae97d6d0-6bc0-4395-b623-4dbd705c3c18"
+      Hint: ContentIntro
+      Value: Welcome to the events site
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Home

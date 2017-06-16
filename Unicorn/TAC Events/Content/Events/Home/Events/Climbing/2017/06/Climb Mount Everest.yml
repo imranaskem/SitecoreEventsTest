@@ -1,0 +1,63 @@
+﻿---
+ID: "b3e77383-b23e-4e23-b1db-a260faf65ac5"
+Parent: "f28cdec5-919b-415a-914c-38cc88d6fe07"
+Template: "2b1e4e6d-ea3e-4def-91dd-96c2c48ac0ef"
+Path: /sitecore/content/Events/Home/Events/Climbing/2017/06/Climb Mount Everest
+DB: master
+SharedFields:
+- ID: "07782492-716c-442a-a138-b289346ae110"
+  Hint: Start Date
+  Value: 20170610T230000Z
+- ID: "bd526c1c-9994-402f-a8e6-4b6865b60ae0"
+  Hint: Event Image
+  Value: |
+    <image mediapath="" alt="climbing-events" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{3A793D2B-93E6-4797-8AC8-2DCD100F3554}" ></image>
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Danish Heading
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170613T095145Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: German Heading
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170613T090204Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: "Exciting Mount Everest Climb!"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170612T153834Z
+    - ID: "719ee39d-c9ec-46e7-be11-005c91f5f54b"
+      Hint: Related Events
+      Type: Treelist
+      Value: |
+        {735C2659-E2F8-46EC-B01B-957E2E978612}
+        {F5E8C20F-C666-4411-B09B-09C57573F6E1}
+        {E55C5563-8CB3-4089-905B-5BB14C65A0F6}
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Climb Mount Everest

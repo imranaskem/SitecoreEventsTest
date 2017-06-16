@@ -1,0 +1,35 @@
+﻿---
+ID: "953209bb-360f-431c-b2c5-4fbc3f7a7e95"
+Parent: "e5528ca5-a941-4c25-8328-ed46dd3cfa86"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/TAC/Events/Content Page
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/16x16/document_text.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {C70AE340-4139-417A-B4CB-97EBA11684AC}
+    {554222B3-7972-4C25-9DF3-C769432E3B77}
+    {E5FF6A13-6303-483C-B7C9-211780BB07A1}
+    {87A8AB4D-15AB-471B-8096-8F9FFCD1C88C}
+    {96F5676B-4515-4046-A962-1C62253BE1AD}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{3AFCD7F1-75D6-4D63-99A2-4A5A006251E3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170612T152053Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

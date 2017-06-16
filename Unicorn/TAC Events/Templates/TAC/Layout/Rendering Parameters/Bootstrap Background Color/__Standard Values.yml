@@ -1,0 +1,14 @@
+﻿---
+ID: "d93e6167-4ebb-4839-be7d-83833f2db3fb"
+Parent: "8f972425-2d0b-4f97-b5cd-46fe99671cc8"
+Template: "8f972425-2d0b-4f97-b5cd-46fe99671cc8"
+Path: /sitecore/templates/TAC/Layout/Rendering Parameters/Bootstrap Background Color/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T101240Z

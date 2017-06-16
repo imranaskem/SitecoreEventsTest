@@ -1,0 +1,14 @@
+﻿---
+ID: "9efd017f-fa67-40ad-8405-23c1db8a2c53"
+Parent: "e5c8b09b-2008-4a59-8d8a-ceeb2ce92d03"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Events/Home/Events/Hiking/2017/06
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170615T170058Z

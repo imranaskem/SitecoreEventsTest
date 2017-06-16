@@ -1,0 +1,22 @@
+﻿---
+ID: "9309adc6-3f73-436a-a79f-c020e0ec2078"
+Parent: "aadf976e-cf26-4b65-806c-c35d20b95a82"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/TAC/Careers/Columns/OneColumn
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/TAC/Careers/Columns/OneColumn.cshtml
+- ID: "e441abe7-2ca3-4640-ae26-3789967925d7"
+  Hint: Compatible Renderings
+  Type: Treelist
+  Value: "{37D1B2F2-5521-4E3C-9E22-AC6F17783A84}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160428T114101Z

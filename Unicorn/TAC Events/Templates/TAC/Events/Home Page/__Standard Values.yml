@@ -1,0 +1,37 @@
+﻿---
+ID: "6bc8ddc1-89f7-4bcd-812c-61a0ec6a20f9"
+Parent: "784f7de5-0b35-4a01-ab3c-2549559d992b"
+Template: "784f7de5-0b35-4a01-ab3c-2549559d992b"
+Path: /sitecore/templates/TAC/Events/Home Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{953209BB-360F-431C-B2C5-4FBC3F7A7E95}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{02C030BB-4934-4B21-B4B2-91E464C942C3}">
+        <r
+          id="{3C102078-7761-4A80-B4F5-4236A45FFB96}"
+          ph="main"
+          uid="{3A5D9FEF-40FB-4DE9-B5A6-612DCD36B3DD}" />
+        <r
+          id="{10CC0F0E-4461-49FB-9506-68F1C360FC65}"
+          ph="pageContent"
+          uid="{B4D5CDBC-2EE0-4A69-A1FF-296675856FF1}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170612T152811Z
